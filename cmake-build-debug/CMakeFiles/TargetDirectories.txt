@@ -1,0 +1,3 @@
+/Users/bulat/CLionProjects/mpi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/bulat/CLionProjects/mpi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bulat/CLionProjects/mpi/cmake-build-debug/CMakeFiles/mpi.dir
