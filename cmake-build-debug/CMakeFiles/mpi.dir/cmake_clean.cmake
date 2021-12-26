@@ -1,8 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/mpi.dir/first_module/task1.cpp.o"
-  "CMakeFiles/mpi.dir/first_module/task2.cpp.o"
-  "CMakeFiles/mpi.dir/second_module/task1.cpp.o"
-  "CMakeFiles/mpi.dir/second_module/task3.cpp.o"
+  "CMakeFiles/mpi.dir/third_module_/task5.cpp.o"
   "mpi"
   "mpi.pdb"
 )

@@ -82,16 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/bulat/CLionProjects/mpi/first module/task1.cpp">
-			<Option target="mpi"/>
-		</Unit>
-		<Unit filename="/Users/bulat/CLionProjects/mpi/first module/task2.cpp">
-			<Option target="mpi"/>
-		</Unit>
-		<Unit filename="/Users/bulat/CLionProjects/mpi/second module/task1.cpp">
-			<Option target="mpi"/>
-		</Unit>
-		<Unit filename="/Users/bulat/CLionProjects/mpi/second module/task3.cpp">
+		<Unit filename="/Users/bulat/CLionProjects/mpi/third module /task5.cpp">
 			<Option target="mpi"/>
 		</Unit>
 		<Unit filename="/Users/bulat/CLionProjects/mpi/CMakeLists.txt">

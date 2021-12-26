@@ -129,101 +129,29 @@ mpi/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/mpi.dir/build.make CMakeFiles/mpi.dir/build
 .PHONY : mpi/fast
 
-first_module/task1.o: first_module/task1.cpp.o
-.PHONY : first_module/task1.o
+third_module_/task5.o: third_module_/task5.cpp.o
+.PHONY : third_module_/task5.o
 
 # target to build an object file
-first_module/task1.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mpi.dir/build.make CMakeFiles/mpi.dir/first_module/task1.cpp.o
-.PHONY : first_module/task1.cpp.o
+third_module_/task5.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mpi.dir/build.make CMakeFiles/mpi.dir/third_module_/task5.cpp.o
+.PHONY : third_module_/task5.cpp.o
 
-first_module/task1.i: first_module/task1.cpp.i
-.PHONY : first_module/task1.i
-
-# target to preprocess a source file
-first_module/task1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mpi.dir/build.make CMakeFiles/mpi.dir/first_module/task1.cpp.i
-.PHONY : first_module/task1.cpp.i
-
-first_module/task1.s: first_module/task1.cpp.s
-.PHONY : first_module/task1.s
-
-# target to generate assembly for a file
-first_module/task1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mpi.dir/build.make CMakeFiles/mpi.dir/first_module/task1.cpp.s
-.PHONY : first_module/task1.cpp.s
-
-first_module/task2.o: first_module/task2.cpp.o
-.PHONY : first_module/task2.o
-
-# target to build an object file
-first_module/task2.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mpi.dir/build.make CMakeFiles/mpi.dir/first_module/task2.cpp.o
-.PHONY : first_module/task2.cpp.o
-
-first_module/task2.i: first_module/task2.cpp.i
-.PHONY : first_module/task2.i
+third_module_/task5.i: third_module_/task5.cpp.i
+.PHONY : third_module_/task5.i
 
 # target to preprocess a source file
-first_module/task2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mpi.dir/build.make CMakeFiles/mpi.dir/first_module/task2.cpp.i
-.PHONY : first_module/task2.cpp.i
+third_module_/task5.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mpi.dir/build.make CMakeFiles/mpi.dir/third_module_/task5.cpp.i
+.PHONY : third_module_/task5.cpp.i
 
-first_module/task2.s: first_module/task2.cpp.s
-.PHONY : first_module/task2.s
-
-# target to generate assembly for a file
-first_module/task2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mpi.dir/build.make CMakeFiles/mpi.dir/first_module/task2.cpp.s
-.PHONY : first_module/task2.cpp.s
-
-second_module/task1.o: second_module/task1.cpp.o
-.PHONY : second_module/task1.o
-
-# target to build an object file
-second_module/task1.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mpi.dir/build.make CMakeFiles/mpi.dir/second_module/task1.cpp.o
-.PHONY : second_module/task1.cpp.o
-
-second_module/task1.i: second_module/task1.cpp.i
-.PHONY : second_module/task1.i
-
-# target to preprocess a source file
-second_module/task1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mpi.dir/build.make CMakeFiles/mpi.dir/second_module/task1.cpp.i
-.PHONY : second_module/task1.cpp.i
-
-second_module/task1.s: second_module/task1.cpp.s
-.PHONY : second_module/task1.s
+third_module_/task5.s: third_module_/task5.cpp.s
+.PHONY : third_module_/task5.s
 
 # target to generate assembly for a file
-second_module/task1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mpi.dir/build.make CMakeFiles/mpi.dir/second_module/task1.cpp.s
-.PHONY : second_module/task1.cpp.s
-
-second_module/task3.o: second_module/task3.cpp.o
-.PHONY : second_module/task3.o
-
-# target to build an object file
-second_module/task3.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mpi.dir/build.make CMakeFiles/mpi.dir/second_module/task3.cpp.o
-.PHONY : second_module/task3.cpp.o
-
-second_module/task3.i: second_module/task3.cpp.i
-.PHONY : second_module/task3.i
-
-# target to preprocess a source file
-second_module/task3.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mpi.dir/build.make CMakeFiles/mpi.dir/second_module/task3.cpp.i
-.PHONY : second_module/task3.cpp.i
-
-second_module/task3.s: second_module/task3.cpp.s
-.PHONY : second_module/task3.s
-
-# target to generate assembly for a file
-second_module/task3.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mpi.dir/build.make CMakeFiles/mpi.dir/second_module/task3.cpp.s
-.PHONY : second_module/task3.cpp.s
+third_module_/task5.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mpi.dir/build.make CMakeFiles/mpi.dir/third_module_/task5.cpp.s
+.PHONY : third_module_/task5.cpp.s
 
 # Help Target
 help:
@@ -234,18 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... mpi"
-	@echo "... first_module/task1.o"
-	@echo "... first_module/task1.i"
-	@echo "... first_module/task1.s"
-	@echo "... first_module/task2.o"
-	@echo "... first_module/task2.i"
-	@echo "... first_module/task2.s"
-	@echo "... second_module/task1.o"
-	@echo "... second_module/task1.i"
-	@echo "... second_module/task1.s"
-	@echo "... second_module/task3.o"
-	@echo "... second_module/task3.i"
-	@echo "... second_module/task3.s"
+	@echo "... third_module_/task5.o"
+	@echo "... third_module_/task5.i"
+	@echo "... third_module_/task5.s"
 .PHONY : help
 
 

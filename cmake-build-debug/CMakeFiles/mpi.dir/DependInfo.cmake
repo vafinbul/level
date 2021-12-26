@@ -8,10 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/bulat/CLionProjects/mpi/first module/task1.cpp" "/Users/bulat/CLionProjects/mpi/cmake-build-debug/CMakeFiles/mpi.dir/first_module/task1.cpp.o"
-  "/Users/bulat/CLionProjects/mpi/first module/task2.cpp" "/Users/bulat/CLionProjects/mpi/cmake-build-debug/CMakeFiles/mpi.dir/first_module/task2.cpp.o"
-  "/Users/bulat/CLionProjects/mpi/second module/task1.cpp" "/Users/bulat/CLionProjects/mpi/cmake-build-debug/CMakeFiles/mpi.dir/second_module/task1.cpp.o"
-  "/Users/bulat/CLionProjects/mpi/second module/task3.cpp" "/Users/bulat/CLionProjects/mpi/cmake-build-debug/CMakeFiles/mpi.dir/second_module/task3.cpp.o"
+  "/Users/bulat/CLionProjects/mpi/third module /task5.cpp" "/Users/bulat/CLionProjects/mpi/cmake-build-debug/CMakeFiles/mpi.dir/third_module_/task5.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

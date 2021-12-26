@@ -6,11 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/bulat/CLionProjects/mpi/main.cpp
+/Users/bulat/CLionProjects/mpi/third module /task5.cpp
 stdio.h
 -
 mpi.h
-/Users/bulat/CLionProjects/mpi/mpi.h
+/Users/bulat/CLionProjects/mpi/third module /mpi.h
+iostream
+-
 
 /usr/local/Cellar/open-mpi/4.1.0/include/mpi.h
 stddef.h

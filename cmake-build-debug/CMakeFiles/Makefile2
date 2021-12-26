@@ -81,12 +81,12 @@ clean: CMakeFiles/mpi.dir/clean
 CMakeFiles/mpi.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/mpi.dir/build.make CMakeFiles/mpi.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/mpi.dir/build.make CMakeFiles/mpi.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/bulat/CLionProjects/mpi/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5 "Built target mpi"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/bulat/CLionProjects/mpi/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target mpi"
 .PHONY : CMakeFiles/mpi.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/mpi.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/bulat/CLionProjects/mpi/cmake-build-debug/CMakeFiles 5
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/bulat/CLionProjects/mpi/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/mpi.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/bulat/CLionProjects/mpi/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/mpi.dir/rule

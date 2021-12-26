@@ -66,75 +66,30 @@ include CMakeFiles/mpi.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/mpi.dir/flags.make
 
-CMakeFiles/mpi.dir/first_module/task1.cpp.o: CMakeFiles/mpi.dir/flags.make
-CMakeFiles/mpi.dir/first_module/task1.cpp.o: ../first\ module/task1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/bulat/CLionProjects/mpi/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/mpi.dir/first_module/task1.cpp.o"
-	/usr/local/Cellar/open-mpi/4.1.0/bin/mpic++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mpi.dir/first_module/task1.cpp.o -c "/Users/bulat/CLionProjects/mpi/first module/task1.cpp"
+CMakeFiles/mpi.dir/third_module_/task5.cpp.o: CMakeFiles/mpi.dir/flags.make
+CMakeFiles/mpi.dir/third_module_/task5.cpp.o: ../third\ module\ /task5.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/bulat/CLionProjects/mpi/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/mpi.dir/third_module_/task5.cpp.o"
+	/usr/local/Cellar/open-mpi/4.1.0/bin/mpic++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mpi.dir/third_module_/task5.cpp.o -c "/Users/bulat/CLionProjects/mpi/third module /task5.cpp"
 
-CMakeFiles/mpi.dir/first_module/task1.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mpi.dir/first_module/task1.cpp.i"
-	/usr/local/Cellar/open-mpi/4.1.0/bin/mpic++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/bulat/CLionProjects/mpi/first module/task1.cpp" > CMakeFiles/mpi.dir/first_module/task1.cpp.i
+CMakeFiles/mpi.dir/third_module_/task5.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mpi.dir/third_module_/task5.cpp.i"
+	/usr/local/Cellar/open-mpi/4.1.0/bin/mpic++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/bulat/CLionProjects/mpi/third module /task5.cpp" > CMakeFiles/mpi.dir/third_module_/task5.cpp.i
 
-CMakeFiles/mpi.dir/first_module/task1.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mpi.dir/first_module/task1.cpp.s"
-	/usr/local/Cellar/open-mpi/4.1.0/bin/mpic++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/bulat/CLionProjects/mpi/first module/task1.cpp" -o CMakeFiles/mpi.dir/first_module/task1.cpp.s
-
-CMakeFiles/mpi.dir/first_module/task2.cpp.o: CMakeFiles/mpi.dir/flags.make
-CMakeFiles/mpi.dir/first_module/task2.cpp.o: ../first\ module/task2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/bulat/CLionProjects/mpi/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/mpi.dir/first_module/task2.cpp.o"
-	/usr/local/Cellar/open-mpi/4.1.0/bin/mpic++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mpi.dir/first_module/task2.cpp.o -c "/Users/bulat/CLionProjects/mpi/first module/task2.cpp"
-
-CMakeFiles/mpi.dir/first_module/task2.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mpi.dir/first_module/task2.cpp.i"
-	/usr/local/Cellar/open-mpi/4.1.0/bin/mpic++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/bulat/CLionProjects/mpi/first module/task2.cpp" > CMakeFiles/mpi.dir/first_module/task2.cpp.i
-
-CMakeFiles/mpi.dir/first_module/task2.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mpi.dir/first_module/task2.cpp.s"
-	/usr/local/Cellar/open-mpi/4.1.0/bin/mpic++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/bulat/CLionProjects/mpi/first module/task2.cpp" -o CMakeFiles/mpi.dir/first_module/task2.cpp.s
-
-CMakeFiles/mpi.dir/second_module/task1.cpp.o: CMakeFiles/mpi.dir/flags.make
-CMakeFiles/mpi.dir/second_module/task1.cpp.o: ../second\ module/task1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/bulat/CLionProjects/mpi/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/mpi.dir/second_module/task1.cpp.o"
-	/usr/local/Cellar/open-mpi/4.1.0/bin/mpic++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mpi.dir/second_module/task1.cpp.o -c "/Users/bulat/CLionProjects/mpi/second module/task1.cpp"
-
-CMakeFiles/mpi.dir/second_module/task1.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mpi.dir/second_module/task1.cpp.i"
-	/usr/local/Cellar/open-mpi/4.1.0/bin/mpic++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/bulat/CLionProjects/mpi/second module/task1.cpp" > CMakeFiles/mpi.dir/second_module/task1.cpp.i
-
-CMakeFiles/mpi.dir/second_module/task1.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mpi.dir/second_module/task1.cpp.s"
-	/usr/local/Cellar/open-mpi/4.1.0/bin/mpic++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/bulat/CLionProjects/mpi/second module/task1.cpp" -o CMakeFiles/mpi.dir/second_module/task1.cpp.s
-
-CMakeFiles/mpi.dir/second_module/task3.cpp.o: CMakeFiles/mpi.dir/flags.make
-CMakeFiles/mpi.dir/second_module/task3.cpp.o: ../second\ module/task3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/bulat/CLionProjects/mpi/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/mpi.dir/second_module/task3.cpp.o"
-	/usr/local/Cellar/open-mpi/4.1.0/bin/mpic++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mpi.dir/second_module/task3.cpp.o -c "/Users/bulat/CLionProjects/mpi/second module/task3.cpp"
-
-CMakeFiles/mpi.dir/second_module/task3.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mpi.dir/second_module/task3.cpp.i"
-	/usr/local/Cellar/open-mpi/4.1.0/bin/mpic++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/bulat/CLionProjects/mpi/second module/task3.cpp" > CMakeFiles/mpi.dir/second_module/task3.cpp.i
-
-CMakeFiles/mpi.dir/second_module/task3.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mpi.dir/second_module/task3.cpp.s"
-	/usr/local/Cellar/open-mpi/4.1.0/bin/mpic++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/bulat/CLionProjects/mpi/second module/task3.cpp" -o CMakeFiles/mpi.dir/second_module/task3.cpp.s
+CMakeFiles/mpi.dir/third_module_/task5.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mpi.dir/third_module_/task5.cpp.s"
+	/usr/local/Cellar/open-mpi/4.1.0/bin/mpic++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/bulat/CLionProjects/mpi/third module /task5.cpp" -o CMakeFiles/mpi.dir/third_module_/task5.cpp.s
 
 # Object files for target mpi
 mpi_OBJECTS = \
-"CMakeFiles/mpi.dir/first_module/task1.cpp.o" \
-"CMakeFiles/mpi.dir/first_module/task2.cpp.o" \
-"CMakeFiles/mpi.dir/second_module/task1.cpp.o" \
-"CMakeFiles/mpi.dir/second_module/task3.cpp.o"
+"CMakeFiles/mpi.dir/third_module_/task5.cpp.o"
 
 # External object files for target mpi
 mpi_EXTERNAL_OBJECTS =
 
-mpi: CMakeFiles/mpi.dir/first_module/task1.cpp.o
-mpi: CMakeFiles/mpi.dir/first_module/task2.cpp.o
-mpi: CMakeFiles/mpi.dir/second_module/task1.cpp.o
-mpi: CMakeFiles/mpi.dir/second_module/task3.cpp.o
+mpi: CMakeFiles/mpi.dir/third_module_/task5.cpp.o
 mpi: CMakeFiles/mpi.dir/build.make
 mpi: CMakeFiles/mpi.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/bulat/CLionProjects/mpi/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable mpi"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/bulat/CLionProjects/mpi/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable mpi"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/mpi.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
